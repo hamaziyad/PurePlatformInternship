@@ -1,3 +1,2 @@
 # PurePlatformInternship
-hey there
-hello again
+hey 1
